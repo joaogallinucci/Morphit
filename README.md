@@ -1,2 +1,2 @@
 # Morphit
-Una aplicación para convertir imágenes a distintos formatos!
+An application to convert images to different formats!
